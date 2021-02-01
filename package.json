@@ -1,5 +1,5 @@
 {
-  "name": "@editor/core",
+  "name": "@text_editor/core",
   "version": "0.1.0",
   "scripts": {
     "start": "vue-cli-service serve",
